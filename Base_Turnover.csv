@@ -1,0 +1,101 @@
+﻿Cargo;DataAdmissao;DataDemissao;Departamento;Genero;ID;MesReferencia;MotivoDemissao;Nome;Salario;Status;TipoDemissao
+Analista de RH;2024-04-22;;RH;Masculino;1;2026-06-01;;Pedro Melo;5326.94;Ativo;
+Assistente Financeiro;2019-11-02;;Financeiro;Feminino;2;2026-06-01;;Julia Souza;3552.53;Ativo;
+Desenvolvedor Sênior;2019-02-22;2019-11-23;TI;Masculino;3;2026-06-01;Corte de gastos;Pedro Araújo;10062.14;Desligado;Involuntária
+Representante Comercial;2018-05-31;2019-11-13;Vendas;Feminino;4;2026-06-01;Insatisfação com salário;Camila Melo;12877.17;Desligado;Voluntária
+Analista de Suporte;2024-01-15;;TI;Feminino;5;2026-06-01;;Juliana Gomes;5520.35;Ativo;
+Analista Financeiro;2020-01-14;2020-10-04;Financeiro;Feminino;6;2026-06-01;Reestruturação da área;Beatriz Melo;6965.7;Desligado;Involuntária
+Auxiliar de Logística;2021-10-08;;Operações;Masculino;7;2026-06-01;;Rafael Araújo;3081.48;Ativo;
+Supervisor de Operações;2023-08-15;2026-05-28;Operações;Feminino;8;2026-06-01;Falta de fit cultural;Letícia Silva;12622.88;Desligado;Involuntária
+Supervisor de Operações;2022-12-26;;Operações;Feminino;9;2026-06-01;;Fernanda Cardoso;14967.83;Ativo;
+Vendedor;2021-12-12;2025-02-11;Vendas;Masculino;10;2026-06-01;Nova oportunidade de mercado;João Souza;4897.27;Desligado;Voluntária
+Analista de Marketing;2018-02-05;2019-08-25;Marketing;Masculino;11;2026-06-01;Insatisfação com salário;Pedro Martins;5516.2;Desligado;Voluntária
+Analista de Operações;2021-10-03;;Operações;Masculino;12;2026-06-01;;Rafael Almeida;6627.85;Ativo;
+Desenvolvedor Pleno;2020-08-20;2023-06-10;TI;Masculino;13;2026-06-01;Corte de gastos;Lucas Melo;5302.38;Desligado;Involuntária
+Desenvolvedor Sênior;2022-05-14;;TI;Feminino;14;2026-06-01;;Juliana Ribeiro;10216.47;Ativo;
+Consultor de Vendas;2019-07-12;;Vendas;Feminino;15;2026-06-01;;Letícia Oliveira;9012.64;Ativo;
+Analista Financeiro;2021-08-23;2023-07-31;Financeiro;Masculino;16;2026-06-01;Nova oportunidade de mercado;Bruno Barbosa;4555.02;Desligado;Voluntária
+Gerente de Operações;2023-09-05;;Operações;Masculino;17;2026-06-01;;Rafael Pereira;11371.43;Ativo;
+Analista de Suporte;2020-03-18;;TI;Feminino;18;2026-06-01;;Camila Araújo;4281.27;Ativo;
+Coordenador de RH;2021-07-22;;RH;Feminino;19;2026-06-01;;Maria Ferreira;11340.4;Ativo;
+Especialista em SEO;2022-06-20;2023-09-06;Marketing;Feminino;20;2026-06-01;Término de contrato;Julia Souza;9223.0;Desligado;Involuntária
+Supervisor de Operações;2018-01-25;2020-10-10;Operações;Feminino;21;2026-06-01;Falta de fit cultural;Letícia Araújo;13439.0;Desligado;Involuntária
+Representante Comercial;2022-01-22;2024-12-13;Vendas;Masculino;22;2026-06-01;Nova oportunidade de mercado;Felipe Oliveira;14446.59;Desligado;Voluntária
+Supervisor de Operações;2018-09-13;2020-03-30;Operações;Feminino;23;2026-06-01;Transição de carreira;Letícia Ferreira;12529.5;Desligado;Voluntária
+Assistente Financeiro;2020-12-23;;Financeiro;Masculino;24;2026-06-01;;Thiago Araújo;2683.49;Ativo;
+Gerente de TI;2023-03-22;;TI;Feminino;25;2026-06-01;;Maria Araújo;12194.06;Ativo;
+Representante Comercial;2024-04-24;;Vendas;Feminino;26;2026-06-01;;Letícia Pereira;14363.4;Ativo;
+Analista Financeiro;2018-03-23;;Financeiro;Masculino;27;2026-06-01;;Bruno Almeida;4637.72;Ativo;
+Consultor de Vendas;2019-08-03;;Vendas;Feminino;28;2026-06-01;;Julia Cardoso;10993.47;Ativo;
+Representante Comercial;2018-02-27;;Vendas;Masculino;29;2026-06-01;;Marcos Costa;13823.0;Ativo;
+Assistente de Departamento Pessoal;2018-06-27;;RH;Masculino;30;2026-06-01;;Pedro Almeida;3036.44;Ativo;
+Analista de Suporte;2023-12-16;2025-04-19;TI;Feminino;31;2026-06-01;Transição de carreira;Julia Ferreira;4580.75;Desligado;Voluntária
+Analista de Suporte;2021-02-18;2023-02-01;TI;Masculino;32;2026-06-01;Corte de gastos;Thiago Santos;5907.36;Desligado;Involuntária
+Analista de Suporte;2022-11-21;;TI;Feminino;33;2026-06-01;;Carla Barbosa;5514.31;Ativo;
+Supervisor de Operações;2020-09-28;2021-06-10;Operações;Masculino;34;2026-06-01;Nova oportunidade de mercado;Lucas Ferreira;14889.59;Desligado;Voluntária
+Desenvolvedor Pleno;2022-11-20;2025-12-23;TI;Masculino;35;2026-06-01;Nova oportunidade de mercado;Rafael Silva;6557.69;Desligado;Voluntária
+Representante Comercial;2023-03-24;;Vendas;Feminino;36;2026-06-01;;Letícia Ferreira;14144.31;Ativo;
+Consultor de Vendas;2023-07-29;2024-11-13;Vendas;Masculino;37;2026-06-01;Mudança de cidade;Carlos Araújo;7769.74;Desligado;Voluntária
+Representante Comercial;2018-03-13;;Vendas;Feminino;38;2026-06-01;;Julia Oliveira;13207.2;Ativo;
+Analista Financeiro;2019-01-24;;Financeiro;Masculino;39;2026-06-01;;Rafael Ferreira;4370.04;Ativo;
+Supervisor de Operações;2023-05-01;;Operações;Masculino;40;2026-06-01;;Pedro Ferreira;12675.16;Ativo;
+Analista Financeiro;2023-02-18;;Financeiro;Feminino;41;2026-06-01;;Julia Santos;4512.43;Ativo;
+Desenvolvedor Júnior;2019-01-05;;TI;Masculino;42;2026-06-01;;Carlos Costa;3192.0;Ativo;
+Supervisor de Operações;2021-10-30;2022-07-28;Operações;Masculino;43;2026-06-01;Corte de gastos;Bruno Ferreira;14139.1;Desligado;Involuntária
+Analista de Operações;2019-03-28;2020-07-14;Operações;Feminino;44;2026-06-01;Insatisfação com salário;Letícia Pereira;5925.58;Desligado;Voluntária
+Gerente de Operações;2019-06-18;2022-05-30;Operações;Masculino;45;2026-06-01;Nova oportunidade de mercado;Felipe Almeida;12482.44;Desligado;Voluntária
+Vendedor;2018-11-24;;Vendas;Masculino;46;2026-06-01;;João Martins;6263.11;Ativo;
+Supervisor de Operações;2018-10-17;;Operações;Masculino;47;2026-06-01;;Rafael Barbosa;12596.29;Ativo;
+Coordenador de RH;2020-12-02;2023-07-22;RH;Feminino;48;2026-06-01;Baixa performance;Carla Cardoso;12549.16;Desligado;Involuntária
+Desenvolvedor Pleno;2024-10-12;;TI;Masculino;49;2026-06-01;;Marcos Martins;7499.7;Ativo;
+Desenvolvedor Sênior;2020-10-29;;TI;Masculino;50;2026-06-01;;Pedro Martins;8764.03;Ativo;
+Vendedor;2021-09-12;;Vendas;Feminino;51;2026-06-01;;Juliana Oliveira;7413.06;Ativo;
+Analista de Operações;2019-04-09;;Operações;Feminino;52;2026-06-01;;Camila Barbosa;4327.49;Ativo;
+Gerente de Operações;2020-01-09;2020-11-19;Operações;Feminino;53;2026-06-01;Nova oportunidade de mercado;Beatriz Araújo;14771.91;Desligado;Voluntária
+Desenvolvedor Júnior;2020-12-28;;TI;Masculino;54;2026-06-01;;João Melo;2761.98;Ativo;
+Desenvolvedor Júnior;2024-05-19;;TI;Feminino;55;2026-06-01;;Carla Ribeiro;2683.02;Ativo;
+Gerente de Operações;2021-10-17;2024-02-25;Operações;Feminino;56;2026-06-01;Nova oportunidade de mercado;Juliana Ferreira;13389.79;Desligado;Voluntária
+Consultor de Vendas;2019-09-23;;Vendas;Feminino;57;2026-06-01;;Carla Ferreira;7729.82;Ativo;
+Gerente de Vendas;2022-11-13;2025-12-28;Vendas;Masculino;58;2026-06-01;Clima organizacional;Marcos Santos;12602.87;Desligado;Voluntária
+Analista de Suporte;2018-05-08;;TI;Feminino;59;2026-06-01;;Ana Barbosa;7240.36;Ativo;
+Analista de Operações;2023-04-20;;Operações;Masculino;60;2026-06-01;;Thiago Oliveira;6931.08;Ativo;
+Analista de Operações;2020-06-03;;Operações;Masculino;61;2026-06-01;;Lucas Araújo;4305.59;Ativo;
+Auditor;2021-03-07;;Financeiro;Feminino;62;2026-06-01;;Julia Ribeiro;13823.17;Ativo;
+Analista de Operações;2024-10-09;2026-04-13;Operações;Masculino;63;2026-06-01;Reestruturação da área;Thiago Santos;7115.98;Desligado;Involuntária
+Desenvolvedor Sênior;2023-03-22;;TI;Masculino;64;2026-06-01;;Marcos Cardoso;10328.01;Ativo;
+Desenvolvedor Júnior;2024-07-27;;TI;Feminino;65;2026-06-01;;Juliana Gomes;3062.34;Ativo;
+Analista de Operações;2022-04-21;2024-03-19;Operações;Feminino;66;2026-06-01;Corte de gastos;Carla Lima;4810.35;Desligado;Involuntária
+Auxiliar de Logística;2024-10-12;;Operações;Feminino;67;2026-06-01;;Juliana Pereira;3002.87;Ativo;
+Gerente de Vendas;2018-08-05;2021-01-29;Vendas;Masculino;68;2026-06-01;Baixa performance;Mateus Gomes;11941.11;Desligado;Involuntária
+Consultor de Vendas;2020-01-03;2022-12-19;Vendas;Masculino;69;2026-06-01;Clima organizacional;Lucas Lima;10105.23;Desligado;Voluntária
+Representante Comercial;2023-08-31;;Vendas;Masculino;70;2026-06-01;;Bruno Silva;12400.73;Ativo;
+Analista Financeiro;2022-09-02;2025-11-28;Financeiro;Masculino;71;2026-06-01;Insatisfação com salário;Carlos Cardoso;6232.54;Desligado;Voluntária
+Gerente Financeiro;2024-02-24;2026-04-26;Financeiro;Masculino;72;2026-06-01;Mudança de cidade;Rafael Martins;14882.5;Desligado;Voluntária
+Desenvolvedor Pleno;2020-04-08;2023-02-08;TI;Feminino;73;2026-06-01;Insatisfação com salário;Letícia Pereira;6286.8;Desligado;Voluntária
+Gerente de Operações;2018-10-20;;Operações;Masculino;74;2026-06-01;;Lucas Almeida;13177.57;Ativo;
+Analista de Operações;2023-10-13;;Operações;Feminino;75;2026-06-01;;Ana Souza;6099.81;Ativo;
+Desenvolvedor Pleno;2022-08-26;2023-06-21;TI;Feminino;76;2026-06-01;Nova oportunidade de mercado;Ana Ferreira;5151.81;Desligado;Voluntária
+Analista de RH;2020-02-18;;RH;Feminino;77;2026-06-01;;Ana Ferreira;5288.66;Ativo;
+Analista de Operações;2019-01-20;2022-03-14;Operações;Masculino;78;2026-06-01;Nova oportunidade de mercado;Bruno Melo;5451.14;Desligado;Voluntária
+Assistente Financeiro;2019-05-11;;Financeiro;Feminino;79;2026-06-01;;Letícia Martins;3408.54;Ativo;
+Gerente de Operações;2021-03-21;;Operações;Masculino;80;2026-06-01;;Rafael Costa;12264.31;Ativo;
+Vendedor;2019-09-30;;Vendas;Feminino;81;2026-06-01;;Letícia Pereira;6154.72;Ativo;
+Supervisor de Operações;2023-05-30;2025-03-27;Operações;Masculino;82;2026-06-01;Baixa performance;Bruno Pereira;11787.54;Desligado;Involuntária
+Gerente de TI;2019-02-08;2021-04-23;TI;Feminino;83;2026-06-01;Baixa performance;Carla Ribeiro;14465.4;Desligado;Involuntária
+Analista de RH;2022-09-01;2024-05-27;RH;Feminino;84;2026-06-01;Corte de gastos;Juliana Souza;4563.54;Desligado;Involuntária
+Supervisor de Operações;2022-09-06;2025-11-30;Operações;Masculino;85;2026-06-01;Nova oportunidade de mercado;Mateus Lima;14632.17;Desligado;Voluntária
+Gerente de Operações;2019-06-10;;Operações;Masculino;86;2026-06-01;;Bruno Souza;13798.42;Ativo;
+Gerente de TI;2020-08-08;;TI;Feminino;87;2026-06-01;;Camila Melo;12072.91;Ativo;
+Gerente de Marketing;2020-02-25;;Marketing;Masculino;88;2026-06-01;;Marcos Costa;14717.84;Ativo;
+Gerente de Vendas;2019-02-16;;Vendas;Masculino;89;2026-06-01;;Lucas Gomes;12303.15;Ativo;
+Auxiliar de Logística;2024-03-28;;Operações;Masculino;90;2026-06-01;;Pedro Lima;2758.06;Ativo;
+Gerente de Vendas;2021-06-10;;Vendas;Feminino;91;2026-06-01;;Fernanda Oliveira;11950.05;Ativo;
+Analista de Marketing;2021-06-27;;Marketing;Feminino;92;2026-06-01;;Mariana Martins;6154.19;Ativo;
+Desenvolvedor Sênior;2022-12-12;;TI;Feminino;93;2026-06-01;;Julia Souza;10104.02;Ativo;
+Desenvolvedor Pleno;2019-05-02;;TI;Feminino;94;2026-06-01;;Mariana Ferreira;4813.38;Ativo;
+Especialista em SEO;2020-08-07;2022-04-21;Marketing;Feminino;95;2026-06-01;Falta de fit cultural;Maria Cardoso;8309.56;Desligado;Involuntária
+Representante Comercial;2019-09-13;;Vendas;Masculino;96;2026-06-01;;Mateus Almeida;11944.28;Ativo;
+Representante Comercial;2018-10-18;;Vendas;Feminino;97;2026-06-01;;Maria Santos;14908.48;Ativo;
+Vendedor;2018-04-10;;Vendas;Masculino;98;2026-06-01;;Pedro Melo;6662.33;Ativo;
+Analista de Operações;2023-05-20;2024-12-01;Operações;Masculino;99;2026-06-01;Corte de gastos;Bruno Barbosa;6438.0;Desligado;Involuntária
+Vendedor;2021-11-21;;Vendas;Masculino;100;2026-06-01;;Mateus Almeida;4362.24;Ativo;
